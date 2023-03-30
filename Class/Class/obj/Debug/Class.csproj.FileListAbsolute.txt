@@ -1,0 +1,8 @@
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\bin\Debug\Class.exe.config
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\bin\Debug\Class.exe
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\bin\Debug\Class.pdb
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\obj\Debug\Class.exe
+E:\Програмування\Віжуал фігня\Курси\етап 2\Class\Class\obj\Debug\Class.pdb
